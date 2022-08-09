@@ -8,8 +8,26 @@ Welcome to the tutorial for Blockly on INGInious !
       
 This tutorial will walk you through the steps necessary to setup your own blockly course. It is split in two parts : 
 
-* Maze type tasks. (TODO add hyperlinks) TODO add image of example
-* Blocks type tasks. 
+* **Maze type tasks.** 
+
+|
+
+.. container:: text-center
+
+    .. image:: ../images/maze_example.png
+    
+|
+
+* **Blocks type tasks.** 
+
+|
+
+.. container:: text-center
+
+    .. image:: ../images/block_example.png
+
+|
+|
 
 We recommend that you start with the Maze type task, as it is easier to modify to your needs. 
 

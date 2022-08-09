@@ -55,4 +55,19 @@ If some instance failed, a negative feedback is given and the failed instance is
 .. container:: text-center
 
     .. image:: ../images/img_en/maze/failed.JPG
+    
+    
+In the image below there are two additional elements:
+
+* The speed slider
+* The starting block
+
+It is possible to incorporate a starting block, inert, to help students structure their code.
+It is also possible to incorporate a speed slider, which increases or decreases the speed of reading the blocks.
+
+|
+ 
+.. container:: text-center
+
+    .. image:: ../images/slider_start.png 
 
