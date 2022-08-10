@@ -12,6 +12,8 @@ The image below shows the content of the maze.config.json.
 
     .. image:: ../images/img_en/maze/maze_config.JPG
 
+|
+
 This maze.config.json gives the map shown below :
 
 .. container:: text-center
@@ -51,6 +53,7 @@ When a student submit his code, the correction will test each map individually (
 
     .. image:: ../images/img_en/maze/double_layout.JPG
 
+|
 
 In our example, it will look like this (with only the left map being shown):
 

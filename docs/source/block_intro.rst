@@ -34,12 +34,16 @@ All blockly tasks block oriented are defined as in the image below, which repres
 
     .. image:: ../images/img_en/block/interface_en.JPG
 
+|
+
 The button **"Restart "**
 
 
 .. container:: text-center
 
     .. image:: ../images/img_en/block/restart_en.JPG
+ 
+|
     
 Submitting and grading
 ----------------------
@@ -53,6 +57,8 @@ When a student submits their code, the correction will test if the student's cod
 .. container:: text-center
 
     .. image:: ../images/img_en/block/passed_en.JPG
+
+|
 
 If an instance has failed, negative feedback is given and the failed instance is displayed:
 

@@ -38,7 +38,7 @@ In this tutorial you'll learn about :
 * How to customize your own course.
 
 This tutorial is available both in french and in english.
-For the french version please click here : TODO add link
+For the french version please click here : TODO add link of french when its hosted
 
 .. toctree::
    :maxdepth: 2

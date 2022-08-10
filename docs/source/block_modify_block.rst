@@ -5,6 +5,8 @@ If you wish to add or remove blocks from your task, you can do so using either t
 
 To create a new custom block please refer to this tutorial : https://jobblockly.readthedocs.io/en/latest/BaseBlockly.html#example-create-a-custom-block-if-else
 
+|
+
 **This is the XML interface where you can modify the blocks present in your task (notice that there are two separate files. One for the toolbox and one for the workspace):**
 
 .. container:: text-center
@@ -14,6 +16,8 @@ To create a new custom block please refer to this tutorial : https://jobblockly.
 .. container:: text-center
 
     .. image:: ../images/img_en/block/workspace_xml_en.JPG
+
+|
 
 **This is the graphical user interface where you can modify the blocks present in your task (The corresponding XML files are automatically updated when you modify the graphical interface) :**
 
